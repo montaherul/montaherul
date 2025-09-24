@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ur heart
 - 💞️ I’m looking to collaborate on ur atrium and ventricle
 - 📫 How to reach me https://www.facebook.com/montaherulislam.rakib
-- 😄 Pronouns: Monather
+- 😄 Pronouns: Montaher
 - ⚡ Fun fact: I 💖 u
 
 <!---
