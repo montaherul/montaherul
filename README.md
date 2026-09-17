@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/145375442?v=4" width="150" style="border-radius:50%; border: 4px solid #0f172a;" alt="Montaherul Islam"/>
+<img src="https://ui-avatars.com/api/?name=Montaherul+Islam&background=0f172a&color=ffffff&size=250&rounded=true&bold=true" width="150" alt="Montaherul Islam"/>
 
 # Montaherul Islam
 
@@ -72,6 +72,39 @@ I build **responsive, accessible, and high-performance** web applications that s
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=montaherul&theme=tokyonight&hide_border=true" alt="GitHub streak" width="650" />
 
 </div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/montaherul/Questionmakerai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=montaherul&repo=Questionmakerai&theme=tokyonight&hide_border=true" alt="Questionmakerai" />
+</a>
+<a href="https://github.com/montaherul/TurfManagement">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=montaherul&repo=TurfManagement&theme=tokyonight&hide_border=true" alt="TurfManagement" />
+</a>
+<a href="https://github.com/montaherul/School_MS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=montaherul&repo=School_MS&theme=tokyonight&hide_border=true" alt="School_MS" />
+</a>
+<a href="https://github.com/montaherul/RiceLeafDiseaseResearch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=montaherul&repo=RiceLeafDiseaseResearch&theme=tokyonight&hide_border=true" alt="RiceLeafDiseaseResearch" />
+</a>
+<a href="https://github.com/montaherul/montaherul.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=montaherul&repo=montaherul.github.io&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
+</a>
+<a href="https://github.com/montaherul/Simple-Platformer-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=montaherul&repo=Simple-Platformer-game&theme=tokyonight&hide_border=true" alt="Simple Platformer Game" />
+</a>
+
+</div>
+
+**Live projects:**
+- [Question Maker AI](https://questionmakerai.vercel.app) — AI-powered question generator
+- [Turf Management](https://turf-management-frontend-henna.vercel.app) — Turf booking & management platform
+- [School Management System](https://school-ms-7l3e.onrender.com) — Full-featured school administration
+- [Portfolio](https://montaherulislam.me) — Personal portfolio website
 
 ---
 
