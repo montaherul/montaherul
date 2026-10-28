@@ -4,7 +4,7 @@
 
 # Montaherul Islam
 
-### Frontend Developer building clean, responsive & product-ready web experiences
+### Full Stack Developer building clean, responsive & product-ready web experiences
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://montaherulislam.me)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islammontaherul@gmail.com)
